@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PureWebService", "PureWebService\PureWebService.csproj", "{DE14F319-4FA8-4611-8435-64A935B5CB20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE14F319-4FA8-4611-8435-64A935B5CB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE14F319-4FA8-4611-8435-64A935B5CB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE14F319-4FA8-4611-8435-64A935B5CB20}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE14F319-4FA8-4611-8435-64A935B5CB20}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC9E065-41BF-4779-BE5F-F18A9809AA2B}
+	EndGlobalSection
+EndGlobal
